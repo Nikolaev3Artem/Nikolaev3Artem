@@ -9,6 +9,5 @@
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19494%26project%3D%26in%3D0)](https://codetime.dev)
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nikolaev3Artem&theme=tokyonight" alt="GitHub Streak">
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nikolaev3Artem&theme=dark&border_radius=12.9&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
