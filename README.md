@@ -4,7 +4,7 @@
 # Core stack of technologies
 # My Top projects
 # Some links for the socials
-![Telegram](https://t.me/Itz_Maze)
+Telegram(https://t.me/Itz_Maze)
 # Languages / Technologies
 ![Wordpress](https://img.shields.io/badge/-Wordpress-0073A0?style=for-the-badge&logo=wordpress)
 ![HTML](https://img.shields.io/badge/-HTML-7FFF00?style=for-the-badge&logo=HTML5)
@@ -19,6 +19,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nikolaev3Artem&theme=dark&border_radius=12.9&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak">
 </div>
+
 
 
 
