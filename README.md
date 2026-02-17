@@ -7,3 +7,9 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-8B008B?style=for-the-badge&logo=Tailwindcss)
 ![Sass](https://img.shields.io/badge/-Sass-008B8B?style=for-the-badge&logo=Sass)
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19494%26project%3D%26in%3D0)](https://codetime.dev)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikolaev3Artem&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nikolaev3Artem&theme=tokyonight)
